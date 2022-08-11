@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Projeler\C#101\bin\Debug\net6.0\C#101.exe
+C:\Users\Dell\Desktop\Projeler\C#101\bin\Debug\net6.0\C#101.deps.json
+C:\Users\Dell\Desktop\Projeler\C#101\bin\Debug\net6.0\C#101.runtimeconfig.json
+C:\Users\Dell\Desktop\Projeler\C#101\bin\Debug\net6.0\C#101.dll
+C:\Users\Dell\Desktop\Projeler\C#101\bin\Debug\net6.0\C#101.pdb
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\C#101.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\C#101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\C#101.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\C#101.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\C#101.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\C#101.dll
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\refint\C#101.dll
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\C#101.pdb
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\C#101.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Projeler\C#101\obj\Debug\net6.0\ref\C#101.dll
