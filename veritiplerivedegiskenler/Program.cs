@@ -2,9 +2,9 @@
 {
     private static void Main(string[] args)
     {
-        int x = 3;
+    int x = 3;
     int y = 3;
-    y =y+ 2;
+    y= y+ 2;
 
     Console.WriteLine(y);
     y += 2;
