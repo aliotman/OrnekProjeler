@@ -24,7 +24,7 @@ internal class Program
            // int a=int.Parse("test");
            int a=int.Parse("-20000000000");
         }
-        catch(ArgumanNullException ex)
+        catch(ArgumentNullException ex)
         {
             Console.WriteLine("Boş değer girdiniz!");
             Console.WriteLine(ex);
