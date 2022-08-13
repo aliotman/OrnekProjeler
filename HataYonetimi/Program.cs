@@ -1,11 +1,12 @@
-﻿internal class Program
+﻿using System;
+internal class Program
 {
     private static void Main(string[] args)
     {
         try
         {
         Console.WriteLine("Bir Sayi Giriniz");
-        int sayi=Convert.ToInt32(Console.Readline());
+        int sayi=Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Girmiş olduğunuz sayı şudur: "+sayi); 
         }
         catch(Exception ex)
