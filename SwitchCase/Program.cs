@@ -2,41 +2,41 @@
 {
     private static void Main(string[] args)
     {
-        int month=Datetime.Now.Month;
+        int month=DateTime.Now.Month;
         switch (month)
         {
-            case 1: Console.Writeline("Ocak Ayındasınız");
+            case 1: Console.WriteLine("Ocak Ayındasınız");
             break;
-            case 2: Console.Writeline("Şubat Ayındasınız");
+            case 2: Console.WriteLine("Şubat Ayındasınız");
             break;
-            case 4: Console.Writeline("Nisan Ayındasınız");
+            case 4: Console.WriteLine("Nisan Ayındasınız");
             break;
-            case 3: Console.Writeline("Mart Ayındasınız");
+            case 3: Console.WriteLine("Mart Ayındasınız");
             break;
-            default: Console.Writeline("Yanlış veri girişi");
+            default: Console.WriteLine("Yanlış veri girişi");
             break;
         }
         switch (month)
         {
             case 12:
             case 1:
-            case 2: Console.Writeline("Kış Ayındasınız");
+            case 2: Console.WriteLine("Kış Ayındasınız");
             break;
 
             case 3:
             case 4:
-            case 5: Console.Writeline("Bahar Ayındasınız");
+            case 5: Console.WriteLine("Bahar Ayındasınız");
             break;
 
             case 6:
             case 7:
-            case 8: Console.Writeline("Yaz Ayındasınız");
+            case 8: Console.WriteLine("Yaz Ayındasınız");
             break;
 
             default:
             case 9:
             case 10:
-            case 11: Console.Writeline("Sonbahar Ayındasınız");
+            case 11: Console.WriteLine("Sonbahar Ayındasınız");
             break;
         }
     }
