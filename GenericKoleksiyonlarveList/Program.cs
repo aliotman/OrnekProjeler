@@ -32,7 +32,7 @@
         {
             Console.WriteLine(renk);
         }
-
+        //Foreach metodu farklı yazılım
         sayiListesi.ForEach(sayi=>Console.WriteLine(sayi));
         renkListesi.ForEach(renk=>Console.WriteLine(renk));
 

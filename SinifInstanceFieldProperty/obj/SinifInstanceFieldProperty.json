@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\Projeler\\StaticSinifveUyeler\\StaticSinifveUyeler.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\Projeler\\SinifInstanceFieldProperty\\SinifInstanceFieldProperty.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\Projeler\\StaticSinifveUyeler\\StaticSinifveUyeler.csproj": {
+    "C:\\Users\\Dell\\Desktop\\Projeler\\SinifInstanceFieldProperty\\SinifInstanceFieldProperty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Projeler\\StaticSinifveUyeler\\StaticSinifveUyeler.csproj",
-        "projectName": "StaticSinifveUyeler",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Projeler\\StaticSinifveUyeler\\StaticSinifveUyeler.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Projeler\\SinifInstanceFieldProperty\\SinifInstanceFieldProperty.csproj",
+        "projectName": "SinifInstanceFieldProperty",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\Projeler\\SinifInstanceFieldProperty\\SinifInstanceFieldProperty.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\Projeler\\StaticSinifveUyeler\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\Projeler\\SinifInstanceFieldProperty\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
